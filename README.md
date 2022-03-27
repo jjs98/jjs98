@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello there!
+My name is Jens, I am 23 years old and work as a Fullstack Developer with focus on Web Development.
+
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjs98&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjs98&layout=compact&theme=radical">
+</div>
 
 <!--
 **jjs98/jjs98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
