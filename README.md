@@ -1,5 +1,5 @@
 ### Hello there!
-My name is Jens, I am 23 years old and work as a Fullstack Developer with focus on Web Development.
+My name is Jens, I am 23 years old and work as a Fullstack Developer with focus on Frontend Development.
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jjs98&count_private=true&show_icons=true&include_all_commits=true&theme=radical">
