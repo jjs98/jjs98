@@ -1,3 +1,8 @@
+<a href="https://jjsware.de/" target="_blank" rel="noopener">
+  <img alt="JJSWare-Logo" src="https://jjsware.de/assets/LOGO-TEXT.png" />
+</a>
+
+
 ### Hello there!
 My name is Jens, I am a 24 years old Software Developer with focus on Frontend Development.
 
