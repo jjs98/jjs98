@@ -1,5 +1,5 @@
 <a href="https://jjsware.de/" target="_blank" rel="noopener">
-  <img alt="JJSWare-Logo" src="https://jjsware.de/assets/LOGO-TEXT.png" />
+  <img alt="JJSWare-Logo" src="https://jjsware.de/assets/images/JJSWare.png" />
 </a>
 
 
